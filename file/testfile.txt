@@ -1,0 +1,38 @@
+Welcome to our Sample Text File
+
+This is a test file containing various keywords and phrases that we can search for.
+Here are some examples of different content:
+
+TECHNICAL TERMS:
+- JavaScript programming
+- Python scripting
+- Node.js development
+- TypeScript compiler
+- API documentation
+
+COLORS:
+- Red roses bloom in spring
+- Blue skies on a sunny day
+- Green leaves rustling in the wind
+- Yellow sunflowers in the garden
+- Purple twilight fading into night
+
+NUMBERS AND DATES:
+Line with number 42
+Another line with 365 days
+Today is November 4, 2025
+Random number: 12345
+
+REPEATED WORDS:
+test test test
+search search
+file file file file
+
+SPECIAL CHARACTERS:
+@#$% special characters
+!! exclamation marks !!
+... ellipsis test ...
+
+This is the end of our test file.
+You can search for any word or phrase in this content.
+Happy searching!
